@@ -33,7 +33,7 @@
     "webpack-cli": "^3.3.10"
   },
   "dependencies": {
-    "@actions/core": "^1.2.1",
+    "@actions/core": "^1.2.6",
     "@actions/github": "^2.0.1",
     "@octokit/core": "^2.2.0",
     "@octokit/plugin-retry": "^3.0.1",
